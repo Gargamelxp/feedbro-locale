@@ -351,6 +351,8 @@
     "options_skipopmldupes_input_title": "Pokud je zaškrtnuto, Feedbro přeskočí zdroje a složky, které již existují při importu OPML",
     "options_truncatetitles_body": "Zkrácení dlouhých názvů (režim zobrazení 2)",
     "options_truncatetitles_input_title": "Pokud je zaškrtnuto, Feedbro zkrátí dlouhé názvy v režimu zobrazení 2",
+    "options_disableheaderlistener_body": "Zakázat naslouchač HTTP Header",
+    "options_disableheaderlistener_input_title": "Pokud je zaškrtnuto, Feedbro nemusí být schopen zobrazovat webové stránky v režimu prohlížení 6 a přijatá HTTP Link Headers mohou způsobit úniky paměti. Po změně je třeba restartovat prohlížeč.",
     "options_goback_title": "Klepnutím přejdete zpět do zobrazení Čtečky",
     "options_error_bookmarks_noselection": "Musíte vybrat alespoň jednu záložku!",
     "options_error_bookmarks_invalidfile": "{1} není soubor záložek Firefox HTML!",
