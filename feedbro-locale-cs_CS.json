@@ -343,7 +343,7 @@
     "options_favicons_fromline_body": "Použít favikony v článku 'v řádku'",
     "options_popup_latest_body": "Zobrazit seznam nejnovějších článků v rozbalovací nabídce",
     "options_popup_latest_input_title": "Pokud je zaškrtnuto, Feedbro zobrazí po kliknutí na ikonu Feedbro nadpisy posledních 10 nepřečtených článků",
-    "options_mathjax_body": "MathJax povolen",
+    "options_mathjax_body": "Povolit MathJax",
     "options_mathjax_input_title": "Pokud je zaškrtnuto, Feedbro automaticky vykreslí matematické vzorce v LaTeXu a TeXu v záznamech zdroje pomocí MathJaxu. Všimněte si, že to výrazně ovlivňuje výkon. Feedbro se pokouší vykreslit pouze položky, které obsahují určité označení na $. Tato funkce je k dispozici pouze v prohlížeči Chrome!",
     "options_justifytext_body": "Zarovnat text v článcích",
     "options_justifytext_input_title": "Pokud je zaškrtnuto, Feedbro zarovná text v článcích.",
